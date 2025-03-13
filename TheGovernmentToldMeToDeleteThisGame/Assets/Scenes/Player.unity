@@ -575,7 +575,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3e2aa55ca3e8293599339801e75052f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sensitivity: {x: 5, y: 7}
+  sensitivity: {x: 10, y: 14}
   speed: 20
   accelerationCurve:
     serializedVersion: 2
